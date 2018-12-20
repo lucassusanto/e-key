@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">E-Key</string>
+    <string name="btnLockCaption">Lock</string>
+    <string name="btnUnlockCaption">Unlock</string>
+    <string name="btnRefreshCaption">Refresh</string>
+    <string name="etNamaPintu">Nama Pintu</string>
+    <string name="btnKembaliCaption">Kembali</string>
+    <string name="lblLocked">LOCKED</string>
+    <string name="lblUnlocked">UNLOCKED</string>
+</resources>
